@@ -19,6 +19,7 @@ ul {
   text-align: center;
   font-size: x-small;
   padding: 2px;
+  width: 100%;
 }
 
 nav {
@@ -172,7 +173,7 @@ hr {
 #gallery .pic-grid {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  grid-template-rows: repeat(2, 1fr);
+  grid-template-rows: repeat(2, 1 8878fr);
   grid-row-gap: 2px;
   grid-column-gap: 4px;
 }
